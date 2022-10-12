@@ -6,7 +6,6 @@ It should be noted that the label of each file is the name of the folder in whic
 Our dataset has a total of 19 categories, and for each category, 28 images are placed in the most folder to train our model with, and 20 images are in the test folder with which we evaluate the performance of our final model.
 
 Examples of images and captions in the dataset
-![image](https://user-images.githubusercontent.com/47056654/195458678-3d79dac4-5d3b-4db0-adbf-3db2ac6a4f97.png)
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195458344-4d328b8e-ee57-4006-b9df-dfb8b53e3eba.png">
 
