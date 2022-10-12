@@ -19,9 +19,11 @@ Our model was trained with 20 epochs and achieved a validation accuracy of 91%
 
 We used Scikit Learn Python library for Text Classification
 The general steps are as follows:
+
 Text pre-processing - Converting text into numbers - Text Classification - Model evaluation
 
 We did the following steps for text preprocessing: 
+
 remove all the special characters - remove all single characters - remove single characters from the start - substitute multiple spaces with single space - remove prefixed 'b' - convert to lowercase – lemmatization
 
 The next step will be to convert text to numbers, there are different approaches to converting text to the corresponding numerical form.
