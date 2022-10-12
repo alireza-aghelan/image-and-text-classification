@@ -1,7 +1,8 @@
 # image-and-text-classification
-In this project, we train a text classifier for captions and an image classifier for images to classify them.
+In this project, we train a text classifier for captions and an image classifier for images.
+
 the dataset we have contains a number of images. for each image, there is a text file with the same name that describes the corresponding image in 5 sentences.
-It should be noted that the label of each file is the name of the folder in which it is placed.
+it should be noted that the label of each file is the name of the folder in which it is placed.
 
 Our dataset has a total of 19 categories, and for each category, 28 images are placed in the most folder to train our model with, and 20 images are in the test folder with which we evaluate the performance of our final model.
 
@@ -9,7 +10,7 @@ Examples of images and captions in the dataset
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195458344-4d328b8e-ee57-4006-b9df-dfb8b53e3eba.png">
 
-To classify the images, we used the pre-trained DenseNet model. DenseNet is one of the new discoveries in neural networks for visual object recognition. DenseNet is quite similar to ResNet with some basic differences.
+To classify the images, we used the pre-trained DenseNet model. DenseNet is one of the discoveries in neural networks for visual object recognition. DenseNet is quite similar to ResNet with some basic differences.
 DenseNet is specifically designed to improve the reduced accuracy caused by vanishing gradients in deep neural networks.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47056654/195458471-3da407c8-7564-4788-a1fd-ded119ac2e8e.png">
